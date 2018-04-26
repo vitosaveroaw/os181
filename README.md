@@ -7,3 +7,4 @@ ZCZC W04 Telah mencoba menjalankan file-file c pada badak.cs.ui.ac.id
 ZCZC W05 Telah mencoba menjalankan demo week05  
 ZCZC W06 sudah mencoba menjalankan file-file yang ada pada demo week06  
 ZCZC W07 menjalankan file demo pada week07  
+ZCZC W08 file-file program C week08 sudah di jalankan  
